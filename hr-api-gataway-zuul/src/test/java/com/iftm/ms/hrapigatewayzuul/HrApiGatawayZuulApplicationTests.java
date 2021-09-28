@@ -1,4 +1,4 @@
-package com.iftm.ms.hrapigatawayzuul;
+package com.iftm.ms.hrapigatewayzuul;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.iftm.ms.hrapigatawayzuul;
+package com.iftm.ms.hrapigatewayzuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
